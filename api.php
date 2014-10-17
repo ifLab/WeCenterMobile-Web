@@ -6,7 +6,7 @@
  */
 
 /**
- *param: string $host e.g. http://www.example.com  http://182.92.105.123
+ *param: string $host e.g. http://www.example.com  https://182.92.105.123
  *return: boolean 如果已成功安装返回true,未成功安装返回false
  */
 function hasInstall( $host ){
